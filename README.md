@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/centralhardware/java_pass_binding/actions/workflows/maven.yml/badge.svg)](https://github.com/centralhardware/java_pass_binding/actions/workflows/maven.yml)
+
 java library for function chaining like clojure pass binding
 
 ```clojure
